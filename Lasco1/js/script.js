@@ -6,10 +6,10 @@
 	//														"<tr><td>Kevin</td><td>Male</td></tr>";
 
 	var title_heading = document.getElementById('title_heading');
-	title_heading.innerHTML = "My JavaScript Title";
+	title_heading.innerHTML = "MIT - Web Design and Development";
 
 	var subtitle = document.getElementById('subtitle');
-	subtitle.innerHTML = "JavaScript First Table";
+	subtitle.innerHTML = "Student Profile";
 
 	var subtitle1 = document.getElementById('subtitle1');
 	subtitle1.innerHTML = "JavaScript Second Table";
