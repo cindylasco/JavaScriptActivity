@@ -1,5 +1,4 @@
-
-	//document.getElementById('title_heading').innerHTML = "My JavaScript Title Heading";
+//document.getElementById('title_heading').innerHTML = "My JavaScript Title Heading";
 	//document.getElementById('subtitle').innerHTML= "My JavaScript Subtitle";
 	//document.getElementById('tablemk').innerHTML= "<tr><th>Name</th><th>Gender</th></tr>" +
 	//												"<tr><td>Reymar</td><td>Male</td></tr>" +
@@ -10,7 +9,10 @@
 	title_heading.innerHTML = "My JavaScript Title";
 
 	var subtitle = document.getElementById('subtitle');
-	subtitle.innerHTML = "JavaScript Subtitle";
+	subtitle.innerHTML = "JavaScript First Table";
+
+	var subtitle1 = document.getElementById('subtitle1');
+	subtitle1.innerHTML = "JavaScript Second Table";
 
 	var tablemk = document.getElementById('tablemk');
 	
